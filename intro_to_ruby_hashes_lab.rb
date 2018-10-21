@@ -1,5 +1,5 @@
 def new_hash
-  hash = {property: "blue"}
+  hash = {}
 end
 
 def actor
